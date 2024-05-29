@@ -1,11 +1,16 @@
 <h2 markdown="1" align="center">My stats☠️</h1>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nikitabeliayev&layout=compact&show_icons=true&bg_color=00000000&theme=dark&card_width=500" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+</div>
+
+<div align="center" style="margin-top: 50px;">
+<a  href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikitabeliayev&langs_count=5&card_width=500&size_weight=0.5&count_weight=0.5&theme=dark&bg_color=00000000" />
 </a>
+</div>
 <h2 markdown="1" align="center">My social networks📱</h3>
 
 <table align="center" style="border-collapse: collapse; border: none;">
